@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  TestApp.cpp
+d:\onedrive\c++\testapp\testapp\Header.h(18): warning C4309: 'initializing': truncation of constant value
+d:\onedrive\c++\testapp\testapp\Header.h(34): warning C4309: 'initializing': truncation of constant value
+d:\onedrive\c++\testapp\testapp\Header.h(60): warning C4309: 'initializing': truncation of constant value
+d:\onedrive\c++\testapp\testapp\Header.h(92): warning C4309: 'initializing': truncation of constant value
+d:\onedrive\c++\testapp\testapp\Header.h(350): warning C4551: function call missing argument list
+TestApp.cpp(25): warning C4101: 'b': unreferenced local variable
+D:\OneDrive\C++\bass24\bass\bass.dll : fatal error LNK1107: invalid or corrupt file: cannot read at 0x1DC
